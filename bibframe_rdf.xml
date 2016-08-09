@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:relators="http://id.loc.gov/vocabulary/relators/"
+         xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#"
+         xmlns:bf2="http://bibframe.org/vocab2/"
+         xmlns:bf="http://bibframe.org/vocab/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <bf:Work rdf:about="http://linked-data-test.stanford.edu/library/it 10952721">
+      <rdf:type rdf:resource="http://bibframe.org/vocab/Text"/>
+      <bf:authorizedAccessPoint>Cabrillana Leal, ConcepciÃ³n. ConsideraciÃ³n sintÃ¡ctico-semÃ¡ntica de esse : un estudio a travÃ©s de la prosa de Livio / ConcepciÃ³n Cabrillana Leal.ConsideraciÃ³n sintÃ¡ctico-semÃ¡ntica de esse :un estudio a travÃ©s de la prosa de Livio</bf:authorizedAccessPoint>
+      <bf:workTitle rdf:resource="http://linked-data-test.stanford.edu/library/it 10952721title7"/>
+      <bf:creator rdf:resource="http://linked-data-test.stanford.edu/library/it 10952721person8"/>
+      <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/spa"/>
+      <bf:subject rdf:resource="http://linked-data-test.stanford.edu/library/it 10952721topic10"/>
+      <bf:subject rdf:resource="http://linked-data-test.stanford.edu/library/it 10952721topic11"/>
+      <bf:classificationLcc rdf:resource="http://id.loc.gov/authorities/classification/PA2215"/>
+      <bf:series rdf:resource="http://linked-data-test.stanford.edu/library/it 10952721work13"/>
+      <bf:authorizedAccessPoint xml:lang="x-bf-hash">cabrillanalealconcepciÃ³nconsideraciÃ³nsintÃ¡cticosemÃ¡nticadeesseunestudioatravÃ©sdelaprosadeliviospawork</bf:authorizedAccessPoint>
+   </bf:Work>
+   <bf:Work rdf:about="http://linked-data-test.stanford.edu/library/it 10952721work13">
+      <bf:title>Lalia. Series maior ; n. 23</bf:title>
+      <bf:authorizedAccessPoint>Lalia. Series maior ; n. 23</bf:authorizedAccessPoint>
+   </bf:Work>
+   <bf:Work rdf:about="http://linked-data-test.stanford.edu/library/it 1264319X">
+      <rdf:type rdf:resource="http://bibframe.org/vocab/Text"/>
+      <bf:authorizedAccessPoint>Gruppo di studio sul Cinquecento francese. Convegno Rome, Italy) Le donne della Bibbia, la Bibbia delle donne : teatro, letteratura e vita : atti del XV Convegno internazionale di studio, Verona, 16-17 ottobre 2009 / a cura di Rosanna Gorris Camos.Le donne della Bibbia, la Bibbia delle donne :teatro, letteratura e vita atti del XV Convegno internazionale di studio, Verona, 16-17 ottobre 2009</bf:authorizedAccessPoint>
+      <bf:workTitle rdf:resource="http://linked-data-test.stanford.edu/library/it 1264319Xtitle6"/>
+      <bf:title xml:lang="x-bf-sort">donne della Bibbia, la Bibbia delle donne :</bf:title>
+      <bf:creator rdf:resource="http://linked-data-test.stanford.edu/library/it 1264319Xorganization8"/>
+      <bf:contributor rdf:resource="http://linked-data-test.stanford.edu/library/it 1264319Xperson9"/>
+      <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/ita"/>
+      <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/fre"/>
+      <bf:subject rdf:resource="http://linked-data-test.stanford.edu/library/it 1264319Xtopic12"/>
+      <bf:subject rdf:resource="http://linked-data-test.stanford.edu/library/it 1264319Xtopic13"/>
+      <bf:subject rdf:resource="http://linked-data-test.stanford.edu/library/it 1264319Xtopic14"/>
+      <bf:subject rdf:resource="http://linked-data-test.stanford.edu/library/it 1264319Xtopic15"/>
+      <bf:classificationLcc rdf:resource="http://id.loc.gov/authorities/classification/PQ239"/>
+      <bf:series rdf:resource="http://linked-data-test.stanford.edu/library/it 1264319Xwork17"/>
+      <bf:authorizedAccessPoint xml:lang="x-bf-hash">gruppodistudiosulcinquecentofranceseconvegno15th2009romeitalydonnedellabibbialabibbiadelledonneteatroletteraturaevitaattidelxvconvegnointernazionaledistudioverona1617ottobre2009itawork</bf:authorizedAccessPoint>
+   </bf:Work>
+   <bf:Work rdf:about="http://linked-data-test.stanford.edu/library/it 1264319Xwork17">
+      <bf:title>Gruppo di studio sul Cinquecento francese ; 16</bf:title>
+      <bf:authorizedAccessPoint>Gruppo di studio sul Cinquecento francese ; 16</bf:authorizedAccessPoint>
+   </bf:Work>
+   <bf:Work rdf:about="http://linked-data-test.stanford.edu/library/it 13004075">
+      <rdf:type rdf:resource="http://bibframe.org/vocab/Text"/>
+      <bf:authorizedAccessPoint>Tonini Masella, Ginevra Diletta. Donne sole, modelle, prostitute : marginalitÃ  femminili a Roma fra Sette e Ottocento / Ginevra Diletta Tonini Masella.Donne sole, modelle, prostitute :marginalitÃ  femminili a Roma fra Sette e Ottocento</bf:authorizedAccessPoint>
+      <bf:workTitle rdf:resource="http://linked-data-test.stanford.edu/library/it 13004075title5"/>
+      <bf:creator rdf:resource="http://linked-data-test.stanford.edu/library/it 13004075person6"/>
+      <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/ita"/>
+      <bf:subject rdf:resource="http://linked-data-test.stanford.edu/library/it 13004075topic8"/>
+      <bf:subject rdf:resource="http://linked-data-test.stanford.edu/library/it 13004075topic9"/>
+      <bf:subject rdf:resource="http://linked-data-test.stanford.edu/library/it 13004075topic10"/>
+      <bf:subject rdf:resource="http://linked-data-test.stanford.edu/library/it 13004075topic11"/>
+      <bf:subject rdf:resource="http://id.loc.gov/vocabulary/geographicAreas/e-it"/>
+      <bf:classificationLcc rdf:resource="http://id.loc.gov/authorities/classification/HQ205.R56"/>
+      <bf:series rdf:resource="http://linked-data-test.stanford.edu/library/it 13004075work14"/>
+      <bf:authorizedAccessPoint xml:lang="x-bf-hash">toninimasellaginevradilettadonnesolemodelleprostitutemarginalitÃ femminiliaromafrasetteeottocentoitawork</bf:authorizedAccessPoint>
+   </bf:Work>
+   <bf:Work rdf:about="http://linked-data-test.stanford.edu/library/it 13004075work14">
+      <bf:title>Biblioteca di storia sociale ; 39</bf:title>
+      <bf:authorizedAccessPoint>Biblioteca di storia sociale ; 39</bf:authorizedAccessPoint>
+   </bf:Work>
+   <bf:Work rdf:about="http://linked-data-test.stanford.edu/library/it 13004852">
+      <rdf:type rdf:resource="http://bibframe.org/vocab/Text"/>
+      <bf:authorizedAccessPoint>Funghi, M. Serena (Maria Serena) Ostraca greci e bilingui del Petrie museum of Egyptian archaeology (O.Petr.Mus.) / a cura di Maria Serena Funghi, Gabriella Messeri, Cornelia Eva RÃ¶mer.Ostraca greci e bilingui del Petrie museum of Egyptian archaeology (O.Petr.Mus.)</bf:authorizedAccessPoint>
+      <bf:workTitle rdf:resource="http://linked-data-test.stanford.edu/library/it 13004852title8"/>
+      <bf:contributor rdf:resource="http://linked-data-test.stanford.edu/library/it 13004852person9"/>
+      <bf:contributor rdf:resource="http://linked-data-test.stanford.edu/library/it 13004852person10"/>
+      <bf:contributor rdf:resource="http://linked-data-test.stanford.edu/library/it 13004852person11"/>
+      <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/ita"/>
+      <bf:subject rdf:resource="http://linked-data-test.stanford.edu/library/it 13004852topic13"/>
+      <bf:subject rdf:resource="http://linked-data-test.stanford.edu/library/it 13004852topic14"/>
+      <bf:subject rdf:resource="http://linked-data-test.stanford.edu/library/it 13004852organization15"/>
+      <bf:subject rdf:resource="http://id.loc.gov/vocabulary/geographicAreas/f-ua"/>
+      <bf:classificationLcc rdf:resource="http://id.loc.gov/authorities/classification/PA3304"/>
+      <bf:series rdf:resource="http://linked-data-test.stanford.edu/library/it 13004852work18"/>
+      <bf:authorizedAccessPoint xml:lang="x-bf-hash">ostracagreciebilinguidelpetriemuseumofegyptianarchaeologyopetrmusitawork</bf:authorizedAccessPoint>
+   </bf:Work>
+   <bf:Work rdf:about="http://linked-data-test.stanford.edu/library/it 13004852work18">
+      <bf:title>Papyrologica florentina ; 42</bf:title>
+      <bf:authorizedAccessPoint>Papyrologica florentina ; 42</bf:authorizedAccessPoint>
+   </bf:Work>
+   <bf:Instance rdf:about="http://linked-data-test.stanford.edu/library/it 13004075instance17">
+      <rdf:type rdf:resource="http://bibframe.org/vocab/Monograph"/>
+      <bf:instanceTitle rdf:resource="http://linked-data-test.stanford.edu/library/it 13004075title20"/>
+      <bf:isbn10 rdf:resource="http://isbn.example.org/8863724296"/>
+      <bf:isbn13 rdf:resource="http://isbn.example.org/9788863724295"/>
+      <bf:publication>
+         <bf:Provider>
+            <bf:providerName>
+               <bf:Organization>
+                  <bf:label>Edizioni di storia e letteratura</bf:label>
+               </bf:Organization>
+            </bf:providerName>
+            <bf:providerPlace>
+               <bf:Place>
+                  <bf:label>Roma </bf:label>
+               </bf:Place>
+            </bf:providerPlace>
+            <bf:providerDate>2012</bf:providerDate>
+         </bf:Provider>
+      </bf:publication>
+      <bf:modeOfIssuance>single unit</bf:modeOfIssuance>
+      <bf:extent>xix, 223 p. ;</bf:extent>
+      <bf:dimensions>24 cm.</bf:dimensions>
+      <bf:titleStatement>Donne sole, modelle, prostitute : marginalitÃ  femminili a Roma fra Sette e Ottocento</bf:titleStatement>
+      <bf:edition>1. ed.</bf:edition>
+      <bf:providerStatement>Roma : Edizioni di storia e letteratura, 2012.</bf:providerStatement>
+      <bf:note>1</bf:note>
+      <bf:supplementaryContentNote>Includes bibliographical references and index.</bf:supplementaryContentNote>
+      <bf:lccn>
+         <bf:Identifier>
+            <bf:identifierValue>2012443331</bf:identifierValue>
+            <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/lccn"/>
+         </bf:Identifier>
+      </bf:lccn>
+      <bf:systemNumber>
+         <bf:Identifier>
+            <bf:identifierValue>(OCoLC-M)813927230</bf:identifierValue>
+            <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/systemNumber"/>
+         </bf:Identifier>
+      </bf:systemNumber>
+      <bf:systemNumber>
+         <bf:Identifier>
+            <bf:identifierValue>(OCoLC-I)822900418</bf:identifierValue>
+            <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/systemNumber"/>
+         </bf:Identifier>
+      </bf:systemNumber>
+      <bf:instanceOf rdf:resource="http://linked-data-test.stanford.edu/library/it 13004075"/>
+   </bf:Instance>
+   <bf:Instance rdf:about="http://linked-data-test.stanford.edu/library/it 1264319Xinstance20">
+      <rdf:type rdf:resource="http://bibframe.org/vocab/Monograph"/>
+      <bf:instanceTitle rdf:resource="http://linked-data-test.stanford.edu/library/it 1264319Xtitle23"/>
+      <bf:title xml:lang="x-bf-sort">donne della Bibbia, la Bibbia delle donne :</bf:title>
+      <bf:isbn10 rdf:resource="http://isbn.example.org/8882299554"/>
+      <bf:isbn13 rdf:resource="http://isbn.example.org/9788882299552"/>
+      <bf:publication>
+         <bf:Provider>
+            <bf:providerName>
+               <bf:Organization>
+                  <bf:label>Schena</bf:label>
+               </bf:Organization>
+            </bf:providerName>
+            <bf:providerPlace>
+               <bf:Place>
+                  <bf:label>Fasano (Br, Italia) i.e. Brindisi, Italy </bf:label>
+               </bf:Place>
+            </bf:providerPlace>
+            <bf:providerDate>2012</bf:providerDate>
+         </bf:Provider>
+      </bf:publication>
+      <bf:modeOfIssuance>single unit</bf:modeOfIssuance>
+      <bf:extent>412 p. :</bf:extent>
+      <bf:dimensions>24 cm.</bf:dimensions>
+      <bf:illustrationNote>ill. ;</bf:illustrationNote>
+      <bf:titleStatement>Le donne della Bibbia, la Bibbia delle donne : teatro, letteratura e vita : atti del XV Convegno internazionale di studio, Verona, 16-17 ottobre 2009</bf:titleStatement>
+      <bf:providerStatement>Fasano (Br, Italia) i.e. Brindisi, Italy : Schena, 2012.</bf:providerStatement>
+      <bf:languageNote>Contributions in Italian and French.</bf:languageNote>
+      <bf:note>1</bf:note>
+      <bf:supplementaryContentNote>Includes bibliographical references (p. [391]-412).</bf:supplementaryContentNote>
+      <bf:lccn>
+         <bf:Identifier>
+            <bf:identifierValue>2012442496</bf:identifierValue>
+            <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/lccn"/>
+         </bf:Identifier>
+      </bf:lccn>
+      <bf:systemNumber>
+         <bf:Identifier>
+            <bf:identifierValue>(OCoLC-M)811589346</bf:identifierValue>
+            <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/systemNumber"/>
+         </bf:Identifier>
+      </bf:systemNumber>
+      <bf:systemNumber>
+         <bf:Identifier>
+            <bf:identifierValue>(OCoLC-I)822900419</bf:identifierValue>
+            <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/systemNumber"/>
+         </bf:Identifier>
+      </bf:systemNumber>
+      <bf:instanceOf rdf:resource="http://linked-data-test.stanford.edu/library/it 1264319X"/>
+   </bf:Instance>
+   <bf:Instance rdf:about="http://linked-data-test.stanford.edu/library/it 10952721instance16">
+      <rdf:type rdf:resource="http://bibframe.org/vocab/Monograph"/>
+      <bf:instanceTitle rdf:resource="http://linked-data-test.stanford.edu/library/it 10952721title19"/>
+      <bf:isbn10 rdf:resource="http://isbn.example.org/8498872839"/>
+      <bf:isbn13 rdf:resource="http://isbn.example.org/9788498872835"/>
+      <bf:publication>
+         <bf:Provider>
+            <bf:providerName>
+               <bf:Organization>
+                  <bf:label>Universidade de Santiago de Compostela</bf:label>
+               </bf:Organization>
+            </bf:providerName>
+            <bf:providerPlace>
+               <bf:Place>
+                  <bf:label>Santiago de Compostela </bf:label>
+               </bf:Place>
+            </bf:providerPlace>
+            <bf:providerDate>2010</bf:providerDate>
+         </bf:Provider>
+      </bf:publication>
+      <bf:modeOfIssuance>single unit</bf:modeOfIssuance>
+      <bf:extent>138 p. ;</bf:extent>
+      <bf:dimensions>24 cm.</bf:dimensions>
+      <bf:titleStatement>ConsideraciÃ³n sintÃ¡ctico-semÃ¡ntica de esse : un estudio a travÃ©s de la prosa de Livio</bf:titleStatement>
+      <bf:providerStatement>Santiago de Compostela : Universidade de Santiago de Compostela, 2010.</bf:providerStatement>
+      <bf:note>1</bf:note>
+      <bf:supplementaryContentNote>Includes bibliographical references (p. 127-138).</bf:supplementaryContentNote>
+      <bf:lccn>
+         <bf:Identifier>
+            <bf:identifierValue>2010388347</bf:identifierValue>
+            <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/lccn"/>
+         </bf:Identifier>
+      </bf:lccn>
+      <bf:systemNumber>
+         <bf:Identifier>
+            <bf:identifierValue>(OCoLC-M)613309582</bf:identifierValue>
+            <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/systemNumber"/>
+         </bf:Identifier>
+      </bf:systemNumber>
+      <bf:systemNumber>
+         <bf:Identifier>
+            <bf:identifierValue>(OCoLC-I)822900420</bf:identifierValue>
+            <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/systemNumber"/>
+         </bf:Identifier>
+      </bf:systemNumber>
+      <bf:instanceOf rdf:resource="http://linked-data-test.stanford.edu/library/it 10952721"/>
+   </bf:Instance>
+   <bf:Instance rdf:about="http://linked-data-test.stanford.edu/library/it 13004852instance21">
+      <rdf:type rdf:resource="http://bibframe.org/vocab/Monograph"/>
+      <bf:instanceTitle rdf:resource="http://linked-data-test.stanford.edu/library/it 13004852title24"/>
+      <bf:isbn10 rdf:resource="http://isbn.example.org/8874680376"/>
+      <bf:isbn13 rdf:resource="http://isbn.example.org/9788874680375"/>
+      <bf:publication>
+         <bf:Provider>
+            <bf:providerName>
+               <bf:Organization>
+                  <bf:label>Gonnelli</bf:label>
+               </bf:Organization>
+            </bf:providerName>
+            <bf:providerPlace>
+               <bf:Place>
+                  <bf:label>Firenze </bf:label>
+               </bf:Place>
+            </bf:providerPlace>
+            <bf:providerDate>2012</bf:providerDate>
+         </bf:Provider>
+      </bf:publication>
+      <bf:modeOfIssuance>single unit</bf:modeOfIssuance>
+      <bf:extent>3 v. ;</bf:extent>
+      <bf:dimensions>31 cm.</bf:dimensions>
+      <bf:titleStatement>Ostraca greci e bilingui del Petrie museum of Egyptian archaeology (O.Petr.Mus.)</bf:titleStatement>
+      <bf:providerStatement>Firenze : Gonnelli, 2012.</bf:providerStatement>
+      <bf:contentsNote>Pt. 1. Parte prima (1-111) -- pt. 2. Parte seconda (112-527) -- pt. 3. Parte terza (528-796) + 1 .</bf:contentsNote>
+      <bf:note>Pt. 3 accompanied by DVD-ROM subtitle: Immagini.</bf:note>
+      <bf:note>1</bf:note>
+      <bf:supplementaryContentNote>Includes bibliographical references and indexes.</bf:supplementaryContentNote>
+      <bf:systemNumber>
+         <bf:Identifier>
+            <bf:identifierValue>(OCoLC-M)822896307</bf:identifierValue>
+            <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/systemNumber"/>
+         </bf:Identifier>
+      </bf:systemNumber>
+      <bf:systemNumber>
+         <bf:Identifier>
+            <bf:identifierValue>(OCoLC-I)822900421</bf:identifierValue>
+            <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/systemNumber"/>
+         </bf:Identifier>
+      </bf:systemNumber>
+      <bf:instanceOf rdf:resource="http://linked-data-test.stanford.edu/library/it 13004852"/>
+   </bf:Instance>
+   <bf:Annotation rdf:about="http://linked-data-test.stanford.edu/library/it 13004075annotation16">
+      <bf:derivedFrom rdf:resource="http://linked-data-test.stanford.edu/library/it 13004075.marcxml.xml"/>
+      <bf:descriptionSource rdf:resource="http://id.loc.gov/vocabulary/organizations/itfic"/>
+      <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/utorblw"/>
+      <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/aacr2"/>
+      <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+      <bf:changeDate>2012-12-29T01:04</bf:changeDate>
+      <bf:annotates rdf:resource="http://linked-data-test.stanford.edu/library/it 13004075"/>
+   </bf:Annotation>
+   <bf:Annotation rdf:about="http://linked-data-test.stanford.edu/library/it 13004075annotation18">
+      <bf:label>Table of contents</bf:label>
+      <bf:annotationBody rdf:resource="http://bookdata.stanford.edu/casalini/suauth/13/00/13004075.pdf"/>
+      <bf:copyNote>Available to Stanford-affiliated users at:</bf:copyNote>
+      <bf:copyNote>(source: Casalini)</bf:copyNote>
+      <bf:annotates rdf:resource="http://linked-data-test.stanford.edu/library/it 13004075"/>
+   </bf:Annotation>
+   <bf:Annotation rdf:about="http://linked-data-test.stanford.edu/library/it 1264319Xannotation19">
+      <bf:derivedFrom rdf:resource="http://linked-data-test.stanford.edu/library/it 1264319X.marcxml.xml"/>
+      <bf:descriptionSource rdf:resource="http://id.loc.gov/vocabulary/organizations/itfic"/>
+      <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/utorblw"/>
+      <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/aacr2"/>
+      <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+      <bf:changeDate>2012-12-29T01:04</bf:changeDate>
+      <bf:annotates rdf:resource="http://linked-data-test.stanford.edu/library/it 1264319X"/>
+   </bf:Annotation>
+   <bf:Annotation rdf:about="http://linked-data-test.stanford.edu/library/it 1264319Xannotation21">
+      <bf:label>Table of contents</bf:label>
+      <bf:annotationBody rdf:resource="http://bookdata.stanford.edu/casalini/suauth/12/64/1264319x.pdf"/>
+      <bf:copyNote>Available to Stanford-affiliated users at:</bf:copyNote>
+      <bf:copyNote>(source: Casalini)</bf:copyNote>
+      <bf:annotates rdf:resource="http://linked-data-test.stanford.edu/library/it 1264319X"/>
+   </bf:Annotation>
+   <bf:Annotation rdf:about="http://linked-data-test.stanford.edu/library/it 10952721annotation15">
+      <bf:derivedFrom rdf:resource="http://linked-data-test.stanford.edu/library/it 10952721.marcxml.xml"/>
+      <bf:descriptionSource rdf:resource="http://id.loc.gov/vocabulary/organizations/itfic"/>
+      <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/aacr2"/>
+      <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+      <bf:annotates rdf:resource="http://linked-data-test.stanford.edu/library/it 10952721"/>
+   </bf:Annotation>
+   <bf:Annotation rdf:about="http://linked-data-test.stanford.edu/library/it 10952721annotation17">
+      <bf:label>Table of contents</bf:label>
+      <bf:annotationBody rdf:resource="http://bookdata.stanford.edu/casalini/suauth/10/95/10952721.pdf"/>
+      <bf:copyNote>Available to Stanford-affiliated users at:</bf:copyNote>
+      <bf:copyNote>(source: Casalini)</bf:copyNote>
+      <bf:annotates rdf:resource="http://linked-data-test.stanford.edu/library/it 10952721"/>
+   </bf:Annotation>
+   <bf:Annotation rdf:about="http://linked-data-test.stanford.edu/library/it 13004852annotation20">
+      <bf:derivedFrom rdf:resource="http://linked-data-test.stanford.edu/library/it 13004852.marcxml.xml"/>
+      <bf:descriptionSource rdf:resource="http://id.loc.gov/vocabulary/organizations/itfic"/>
+      <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/utorblw"/>
+      <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/aacr2"/>
+      <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+      <bf:changeDate>2012-12-29T01:04</bf:changeDate>
+      <bf:annotates rdf:resource="http://linked-data-test.stanford.edu/library/it 13004852"/>
+   </bf:Annotation>
+   <bf:Annotation rdf:about="http://linked-data-test.stanford.edu/library/it 13004852annotation22">
+      <bf:label>Table of contents</bf:label>
+      <bf:annotationBody rdf:resource="http://bookdata.stanford.edu/casalini/suauth/13/00/13004852.pdf"/>
+      <bf:copyNote>Available to Stanford-affiliated users at:</bf:copyNote>
+      <bf:copyNote>(source: Casalini)</bf:copyNote>
+      <bf:annotates rdf:resource="http://linked-data-test.stanford.edu/library/it 13004852"/>
+   </bf:Annotation>
+   <bf:HeldItem rdf:about="http://linked-data-test.stanford.edu/library/it 13004075helditem36">
+      <bf:label>HQ205.R56 T66 2012</bf:label>
+      <bf:shelfMarkLcc>HQ205.R56 T66 2012</bf:shelfMarkLcc>
+      <bf:holdingFor rdf:resource="http://linked-data-test.stanford.edu/library/it 13004075instance17"/>
+   </bf:HeldItem>
+   <bf:HeldItem rdf:about="http://linked-data-test.stanford.edu/library/it 1264319Xhelditem41">
+      <bf:label>PQ239 .G78 2009</bf:label>
+      <bf:shelfMarkLcc>PQ239 .G78 2009</bf:shelfMarkLcc>
+      <bf:holdingFor rdf:resource="http://linked-data-test.stanford.edu/library/it 1264319Xinstance20"/>
+   </bf:HeldItem>
+   <bf:HeldItem rdf:about="http://linked-data-test.stanford.edu/library/it 10952721helditem34">
+      <bf:label>PA2215 .C33 2010</bf:label>
+      <bf:shelfMarkLcc>PA2215 .C33 2010</bf:shelfMarkLcc>
+      <bf:holdingFor rdf:resource="http://linked-data-test.stanford.edu/library/it 10952721instance16"/>
+   </bf:HeldItem>
+   <bf:HeldItem rdf:about="http://linked-data-test.stanford.edu/library/it 13004852helditem40">
+      <bf:label>PA3304 .P4 2012</bf:label>
+      <bf:shelfMarkLcc>PA3304 .P4 2012</bf:shelfMarkLcc>
+      <bf:holdingFor rdf:resource="http://linked-data-test.stanford.edu/library/it 13004852instance21"/>
+   </bf:HeldItem>
+   <bf:Title rdf:about="http://linked-data-test.stanford.edu/library/it 13004075title5">
+      <bf:label>Donne sole, modelle, prostitute : marginalitÃ  femminili a Roma fra Sette e Ottocento / Ginevra Diletta Tonini Masella.</bf:label>
+      <bf:titleValue>Donne sole, modelle, prostitute :</bf:titleValue>
+      <bf:subtitle>marginalitÃ  femminili a Roma fra Sette e Ottocento </bf:subtitle>
+   </bf:Title>
+   <bf:Person rdf:about="http://linked-data-test.stanford.edu/library/it 13004075person6">
+      <bf:label>Tonini Masella, Ginevra Diletta.</bf:label>
+      <bf:authorizedAccessPoint>Tonini Masella, Ginevra Diletta.</bf:authorizedAccessPoint>
+      <bf:hasAuthority rdf:resource="http://id.loc.gov/authorities/names/no2012153382"/>
+      <bf:hasAuthority rdf:resource="http://viaf.org/viaf/292689606"/>
+      <bf:hasAuthority rdf:resource="http://isni.org/isni/0000000401549724"/>
+   </bf:Person>
+   <bf:Topic rdf:about="http://linked-data-test.stanford.edu/library/it 13004075topic8">
+      <bf:authorizedAccessPoint>Prostitution--Italy--Rome--History--18th century</bf:authorizedAccessPoint>
+      <bf:label>Prostitution--Italy--Rome--History--18th century</bf:label>
+      <bf:hasAuthority rdf:resource="http://id.loc.gov/authorities/subjects/sh2010108679"/>
+   </bf:Topic>
+   <bf:Topic rdf:about="http://linked-data-test.stanford.edu/library/it 13004075topic9">
+      <bf:authorizedAccessPoint>Prostitution--Italy--Rome--History--19th century</bf:authorizedAccessPoint>
+      <bf:label>Prostitution--Italy--Rome--History--19th century</bf:label>
+      <bf:hasAuthority rdf:resource="http://id.loc.gov/authorities/subjects/sh2010108679"/>
+   </bf:Topic>
+   <bf:Topic rdf:about="http://linked-data-test.stanford.edu/library/it 13004075topic10">
+      <bf:authorizedAccessPoint>Women--Italy--Rome--Social conditions--18th century</bf:authorizedAccessPoint>
+      <bf:label>Women--Italy--Rome--Social conditions--18th century</bf:label>
+      <bf:hasAuthority rdf:resource="http://id.loc.gov/authorities/subjects/sh85147274"/>
+   </bf:Topic>
+   <bf:Topic rdf:about="http://linked-data-test.stanford.edu/library/it 13004075topic11">
+      <bf:authorizedAccessPoint>Women--Italy--Rome--Social conditions--19th century</bf:authorizedAccessPoint>
+      <bf:label>Women--Italy--Rome--Social conditions--19th century</bf:label>
+      <bf:hasAuthority rdf:resource="http://id.loc.gov/authorities/subjects/sh85147274"/>
+   </bf:Topic>
+   <bf:Title rdf:about="http://linked-data-test.stanford.edu/library/it 13004075title20">
+      <bf:label>Donne sole, modelle, prostitute : marginalitÃ  femminili a Roma fra Sette e Ottocento / Ginevra Diletta Tonini Masella.</bf:label>
+      <bf:titleValue>Donne sole, modelle, prostitute :</bf:titleValue>
+      <bf:subtitle>marginalitÃ  femminili a Roma fra Sette e Ottocento </bf:subtitle>
+   </bf:Title>
+   <bf:Title rdf:about="http://linked-data-test.stanford.edu/library/it 1264319Xtitle6">
+      <bf:label>Le donne della Bibbia, la Bibbia delle donne : teatro, letteratura e vita : atti del XV Convegno internazionale di studio, Verona, 16-17 ottobre 2009 / a cura di Rosanna Gorris Camos.</bf:label>
+      <bf:titleValue>Le donne della Bibbia, la Bibbia delle donne :</bf:titleValue>
+      <bf:subtitle>teatro, letteratura e vita atti del XV Convegno internazionale di studio, Verona, 16-17 ottobre 2009 </bf:subtitle>
+   </bf:Title>
+   <bf:Organization rdf:about="http://linked-data-test.stanford.edu/library/it 1264319Xorganization8">
+      <bf:label>Gruppo di studio sul Cinquecento francese. Convegno Rome, Italy)</bf:label>
+      <bf:authorizedAccessPoint>Gruppo di studio sul Cinquecento francese. Convegno Rome, Italy)</bf:authorizedAccessPoint>
+      <bf:hasAuthority>
+         <madsrdf:Authority>
+            <madsrdf:authoritativeLabel>Gruppo di studio sul Cinquecento francese. Convegno Rome, Italy)</madsrdf:authoritativeLabel>
+         </madsrdf:Authority>
+      </bf:hasAuthority>
+   </bf:Organization>
+   <bf:Person rdf:about="http://linked-data-test.stanford.edu/library/it 1264319Xperson9">
+      <bf:label>Gorris, Rosanna.</bf:label>
+      <bf:authorizedAccessPoint>Gorris, Rosanna.</bf:authorizedAccessPoint>
+      <bf:hasAuthority rdf:resource="http://id.loc.gov/authorities/names/nr94041562"/>
+      <bf:hasAuthority rdf:resource="http://viaf.org/viaf/4999286"/>
+      <bf:hasAuthority rdf:resource="http://isni.org/isni/0000000106529050"/>
+   </bf:Person>
+   <bf:Topic rdf:about="http://linked-data-test.stanford.edu/library/it 1264319Xtopic12">
+      <bf:authorizedAccessPoint>French literature--16th century--History and criticism--Congresses</bf:authorizedAccessPoint>
+      <bf:label>French literature--16th century--History and criticism--Congresses</bf:label>
+      <bf:hasAuthority rdf:resource="http://id.loc.gov/authorities/subjects/sh2009125576"/>
+   </bf:Topic>
+   <bf:Topic rdf:about="http://linked-data-test.stanford.edu/library/it 1264319Xtopic13">
+      <bf:authorizedAccessPoint>Women in the Bible--Congresses</bf:authorizedAccessPoint>
+      <bf:label>Women in the Bible--Congresses</bf:label>
+      <bf:hasAuthority rdf:resource="http://id.loc.gov/authorities/subjects/sh85147609"/>
+   </bf:Topic>
+   <bf:Topic rdf:about="http://linked-data-test.stanford.edu/library/it 1264319Xtopic14">
+      <bf:authorizedAccessPoint>Women in literature--Congresses</bf:authorizedAccessPoint>
+      <bf:label>Women in literature--Congresses</bf:label>
+      <bf:hasAuthority rdf:resource="http://id.loc.gov/authorities/subjects/sh2008113698"/>
+   </bf:Topic>
+   <bf:Topic rdf:about="http://linked-data-test.stanford.edu/library/it 1264319Xtopic15">
+      <bf:authorizedAccessPoint>Italian literature--History and criticism--Congresses</bf:authorizedAccessPoint>
+      <bf:label>Italian literature--History and criticism--Congresses</bf:label>
+      <bf:hasAuthority rdf:resource="http://id.loc.gov/authorities/subjects/sh2008105018"/>
+   </bf:Topic>
+   <bf:Title rdf:about="http://linked-data-test.stanford.edu/library/it 1264319Xtitle23">
+      <bf:label>Le donne della Bibbia, la Bibbia delle donne : teatro, letteratura e vita : atti del XV Convegno internazionale di studio, Verona, 16-17 ottobre 2009 / a cura di Rosanna Gorris Camos.</bf:label>
+      <bf:titleValue>Le donne della Bibbia, la Bibbia delle donne :</bf:titleValue>
+      <bf:subtitle>teatro, letteratura e vita atti del XV Convegno internazionale di studio, Verona, 16-17 ottobre 2009 </bf:subtitle>
+   </bf:Title>
+   <bf:Title rdf:about="http://linked-data-test.stanford.edu/library/it 10952721title7">
+      <bf:label>ConsideraciÃ³n sintÃ¡ctico-semÃ¡ntica de esse : un estudio a travÃ©s de la prosa de Livio / ConcepciÃ³n Cabrillana Leal.</bf:label>
+      <bf:titleValue>ConsideraciÃ³n sintÃ¡ctico-semÃ¡ntica de esse :</bf:titleValue>
+      <bf:subtitle>un estudio a travÃ©s de la prosa de Livio </bf:subtitle>
+   </bf:Title>
+   <bf:Person rdf:about="http://linked-data-test.stanford.edu/library/it 10952721person8">
+      <bf:label>Cabrillana Leal, ConcepciÃ³n.</bf:label>
+      <bf:authorizedAccessPoint>Cabrillana Leal, ConcepciÃ³n.</bf:authorizedAccessPoint>
+      <bf:hasAuthority rdf:resource="http://id.loc.gov/authorities/names/n2008029595"/>
+      <bf:hasAuthority rdf:resource="http://viaf.org/viaf/120212899"/>
+      <bf:hasAuthority rdf:resource="http://isni.org/isni/000000038525452X"/>
+   </bf:Person>
+   <bf:Topic rdf:about="http://linked-data-test.stanford.edu/library/it 10952721topic10">
+      <bf:authorizedAccessPoint>Latin language--Verb</bf:authorizedAccessPoint>
+      <bf:label>Latin language--Verb</bf:label>
+      <bf:hasAuthority rdf:resource="http://id.loc.gov/authorities/subjects/sh2009128919"/>
+   </bf:Topic>
+   <bf:Topic rdf:about="http://linked-data-test.stanford.edu/library/it 10952721topic11">
+      <bf:authorizedAccessPoint>Latin language--Syntax</bf:authorizedAccessPoint>
+      <bf:label>Latin language--Syntax</bf:label>
+      <bf:hasAuthority rdf:resource="http://id.loc.gov/authorities/subjects/sh2009128900"/>
+   </bf:Topic>
+   <bf:Title rdf:about="http://linked-data-test.stanford.edu/library/it 10952721title19">
+      <bf:label>ConsideraciÃ³n sintÃ¡ctico-semÃ¡ntica de esse : un estudio a travÃ©s de la prosa de Livio / ConcepciÃ³n Cabrillana Leal.</bf:label>
+      <bf:titleValue>ConsideraciÃ³n sintÃ¡ctico-semÃ¡ntica de esse :</bf:titleValue>
+      <bf:subtitle>un estudio a travÃ©s de la prosa de Livio </bf:subtitle>
+   </bf:Title>
+   <bf:Title rdf:about="http://linked-data-test.stanford.edu/library/it 13004852title8">
+      <bf:label>Ostraca greci e bilingui del Petrie museum of Egyptian archaeology (O.Petr.Mus.) / a cura di Maria Serena Funghi, Gabriella Messeri, Cornelia Eva RÃ¶mer.</bf:label>
+      <bf:titleValue>Ostraca greci e bilingui del Petrie museum of Egyptian archaeology (O.Petr.Mus.)</bf:titleValue>
+   </bf:Title>
+   <bf:Person rdf:about="http://linked-data-test.stanford.edu/library/it 13004852person9">
+      <bf:label>Funghi, M. Serena (Maria Serena)</bf:label>
+      <bf:authorizedAccessPoint>Funghi, M. Serena (Maria Serena)</bf:authorizedAccessPoint>
+      <bf:hasAuthority rdf:resource="http://id.loc.gov/authorities/names/nr96035320"/>
+      <bf:hasAuthority rdf:resource="http://viaf.org/viaf/49547293"/>
+      <bf:hasAuthority rdf:resource="http://isni.org/isni/0000000119990372"/>
+   </bf:Person>
+   <bf:Person rdf:about="http://linked-data-test.stanford.edu/library/it 13004852person10">
+      <bf:label>Messeri Savorelli, Gabriella.</bf:label>
+      <bf:authorizedAccessPoint>Messeri Savorelli, Gabriella.</bf:authorizedAccessPoint>
+      <bf:hasAuthority rdf:resource="http://id.loc.gov/authorities/names/nr91012224"/>
+      <bf:hasAuthority rdf:resource="http://viaf.org/viaf/66532168"/>
+      <bf:hasAuthority rdf:resource="http://isni.org/isni/0000000061255761"/>
+   </bf:Person>
+   <bf:Person rdf:about="http://linked-data-test.stanford.edu/library/it 13004852person11">
+      <bf:label>RÃ¶mer, Cornelia Eva.</bf:label>
+      <bf:authorizedAccessPoint>RÃ¶mer, Cornelia Eva.</bf:authorizedAccessPoint>
+      <bf:hasAuthority>
+         <madsrdf:Authority>
+            <madsrdf:authoritativeLabel>RÃ¶mer, Cornelia Eva.</madsrdf:authoritativeLabel>
+         </madsrdf:Authority>
+      </bf:hasAuthority>
+   </bf:Person>
+   <bf:Topic rdf:about="http://linked-data-test.stanford.edu/library/it 13004852topic13">
+      <bf:authorizedAccessPoint>Ostraka--Catalogs</bf:authorizedAccessPoint>
+      <bf:label>Ostraka--Catalogs</bf:label>
+      <bf:hasAuthority rdf:resource="http://id.loc.gov/authorities/subjects/sh2010104621"/>
+   </bf:Topic>
+   <bf:Topic rdf:about="http://linked-data-test.stanford.edu/library/it 13004852topic14">
+      <bf:authorizedAccessPoint>Inscriptions, Greek--Catalogs</bf:authorizedAccessPoint>
+      <bf:label>Inscriptions, Greek--Catalogs</bf:label>
+      <bf:hasAuthority rdf:resource="http://id.loc.gov/authorities/subjects/sh85066590"/>
+   </bf:Topic>
+   <bf:Organization rdf:about="http://linked-data-test.stanford.edu/library/it 13004852organization15">
+      <bf:authorizedAccessPoint>Petrie Museum of Egyptology--Catalogs.</bf:authorizedAccessPoint>
+      <bf:label>Petrie Museum of Egyptology--Catalogs.</bf:label>
+      <bf:hasAuthority rdf:resource="http://id.loc.gov/authorities/names/n50082486"/>
+      <bf:hasAuthority rdf:resource="http://viaf.org/viaf/147720939"/>
+   </bf:Organization>
+   <bf:Title rdf:about="http://linked-data-test.stanford.edu/library/it 13004852title24">
+      <bf:label>Ostraca greci e bilingui del Petrie museum of Egyptian archaeology (O.Petr.Mus.) / a cura di Maria Serena Funghi, Gabriella Messeri, Cornelia Eva RÃ¶mer.</bf:label>
+      <bf:titleValue>Ostraca greci e bilingui del Petrie museum of Egyptian archaeology (O.Petr.Mus.)</bf:titleValue>
+   </bf:Title>
+</rdf:RDF>
