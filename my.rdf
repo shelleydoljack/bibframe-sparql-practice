@@ -7,7 +7,7 @@
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <bf:Work rdf:about="http://linked-data-test.stanford.edu/library/it 10952721">
       <rdf:type rdf:resource="http://bibframe.org/vocab/Text"/>
-      <bf:authorizedAccessPoint>Cabrillana Leal, ConcepciÃ³n. ConsideraciÃ³n sintÃ¡ctico-semÃ¡ntica de esse : un estudio a travÃ©s de la prosa de Livio / ConcepciÃ³n Cabrillana Leal.ConsideraciÃ³n sintÃ¡ctico-semÃ¡ntica de esse :un estudio a travÃ©s de la prosa de Livio</bf:authorizedAccessPoint>
+      <bf:authorizedAccessPoint>Cabrillana Leal, Concepción. Consideración sintáctico-semántica de esse : un estudio a través de la prosa de Livio / Concepción Cabrillana Leal.Consideración sintáctico-semántica de esse :un estudio a través de la prosa de Livio</bf:authorizedAccessPoint>
       <bf:workTitle rdf:resource="http://linked-data-test.stanford.edu/library/it 10952721title7"/>
       <bf:creator rdf:resource="http://linked-data-test.stanford.edu/library/it 10952721person8"/>
       <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/spa"/>
@@ -15,7 +15,7 @@
       <bf:subject rdf:resource="http://linked-data-test.stanford.edu/library/it 10952721topic11"/>
       <bf:classificationLcc rdf:resource="http://id.loc.gov/authorities/classification/PA2215"/>
       <bf:series rdf:resource="http://linked-data-test.stanford.edu/library/it 10952721work13"/>
-      <bf:authorizedAccessPoint xml:lang="x-bf-hash">cabrillanalealconcepciÃ³nconsideraciÃ³nsintÃ¡cticosemÃ¡nticadeesseunestudioatravÃ©sdelaprosadeliviospawork</bf:authorizedAccessPoint>
+      <bf:authorizedAccessPoint xml:lang="x-bf-hash">cabrillanalealconcepciónconsideraciónsintácticosemánticadeesseunestudioatravésdelaprosadeliviospawork</bf:authorizedAccessPoint>
    </bf:Work>
    <bf:Work rdf:about="http://linked-data-test.stanford.edu/library/it 10952721work13">
       <bf:title>Lalia. Series maior ; n. 23</bf:title>
@@ -44,7 +44,7 @@
    </bf:Work>
    <bf:Work rdf:about="http://linked-data-test.stanford.edu/library/it 13004075">
       <rdf:type rdf:resource="http://bibframe.org/vocab/Text"/>
-      <bf:authorizedAccessPoint>Tonini Masella, Ginevra Diletta. Donne sole, modelle, prostitute : marginalitÃ  femminili a Roma fra Sette e Ottocento / Ginevra Diletta Tonini Masella.Donne sole, modelle, prostitute :marginalitÃ  femminili a Roma fra Sette e Ottocento</bf:authorizedAccessPoint>
+      <bf:authorizedAccessPoint>Tonini Masella, Ginevra Diletta. Donne sole, modelle, prostitute : marginalità femminili a Roma fra Sette e Ottocento / Ginevra Diletta Tonini Masella.Donne sole, modelle, prostitute :marginalità femminili a Roma fra Sette e Ottocento</bf:authorizedAccessPoint>
       <bf:workTitle rdf:resource="http://linked-data-test.stanford.edu/library/it 13004075title5"/>
       <bf:creator rdf:resource="http://linked-data-test.stanford.edu/library/it 13004075person6"/>
       <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/ita"/>
@@ -55,7 +55,7 @@
       <bf:subject rdf:resource="http://id.loc.gov/vocabulary/geographicAreas/e-it"/>
       <bf:classificationLcc rdf:resource="http://id.loc.gov/authorities/classification/HQ205.R56"/>
       <bf:series rdf:resource="http://linked-data-test.stanford.edu/library/it 13004075work14"/>
-      <bf:authorizedAccessPoint xml:lang="x-bf-hash">toninimasellaginevradilettadonnesolemodelleprostitutemarginalitÃ femminiliaromafrasetteeottocentoitawork</bf:authorizedAccessPoint>
+      <bf:authorizedAccessPoint xml:lang="x-bf-hash">toninimasellaginevradilettadonnesolemodelleprostitutemarginalitàfemminiliaromafrasetteeottocentoitawork</bf:authorizedAccessPoint>
    </bf:Work>
    <bf:Work rdf:about="http://linked-data-test.stanford.edu/library/it 13004075work14">
       <bf:title>Biblioteca di storia sociale ; 39</bf:title>
@@ -63,7 +63,7 @@
    </bf:Work>
    <bf:Work rdf:about="http://linked-data-test.stanford.edu/library/it 13004852">
       <rdf:type rdf:resource="http://bibframe.org/vocab/Text"/>
-      <bf:authorizedAccessPoint>Funghi, M. Serena (Maria Serena) Ostraca greci e bilingui del Petrie museum of Egyptian archaeology (O.Petr.Mus.) / a cura di Maria Serena Funghi, Gabriella Messeri, Cornelia Eva RÃ¶mer.Ostraca greci e bilingui del Petrie museum of Egyptian archaeology (O.Petr.Mus.)</bf:authorizedAccessPoint>
+      <bf:authorizedAccessPoint>Funghi, M. Serena (Maria Serena) Ostraca greci e bilingui del Petrie museum of Egyptian archaeology (O.Petr.Mus.) / a cura di Maria Serena Funghi, Gabriella Messeri, Cornelia Eva Römer.Ostraca greci e bilingui del Petrie museum of Egyptian archaeology (O.Petr.Mus.)</bf:authorizedAccessPoint>
       <bf:workTitle rdf:resource="http://linked-data-test.stanford.edu/library/it 13004852title8"/>
       <bf:contributor rdf:resource="http://linked-data-test.stanford.edu/library/it 13004852person9"/>
       <bf:contributor rdf:resource="http://linked-data-test.stanford.edu/library/it 13004852person10"/>
@@ -104,7 +104,7 @@
       <bf:modeOfIssuance>single unit</bf:modeOfIssuance>
       <bf:extent>xix, 223 p. ;</bf:extent>
       <bf:dimensions>24 cm.</bf:dimensions>
-      <bf:titleStatement>Donne sole, modelle, prostitute : marginalitÃ  femminili a Roma fra Sette e Ottocento</bf:titleStatement>
+      <bf:titleStatement>Donne sole, modelle, prostitute : marginalità femminili a Roma fra Sette e Ottocento</bf:titleStatement>
       <bf:edition>1. ed.</bf:edition>
       <bf:providerStatement>Roma : Edizioni di storia e letteratura, 2012.</bf:providerStatement>
       <bf:note>1</bf:note>
@@ -202,7 +202,7 @@
       <bf:modeOfIssuance>single unit</bf:modeOfIssuance>
       <bf:extent>138 p. ;</bf:extent>
       <bf:dimensions>24 cm.</bf:dimensions>
-      <bf:titleStatement>ConsideraciÃ³n sintÃ¡ctico-semÃ¡ntica de esse : un estudio a travÃ©s de la prosa de Livio</bf:titleStatement>
+      <bf:titleStatement>Consideración sintáctico-semántica de esse : un estudio a través de la prosa de Livio</bf:titleStatement>
       <bf:providerStatement>Santiago de Compostela : Universidade de Santiago de Compostela, 2010.</bf:providerStatement>
       <bf:note>1</bf:note>
       <bf:supplementaryContentNote>Includes bibliographical references (p. 127-138).</bf:supplementaryContentNote>
@@ -352,9 +352,9 @@
       <bf:holdingFor rdf:resource="http://linked-data-test.stanford.edu/library/it 13004852instance21"/>
    </bf:HeldItem>
    <bf:Title rdf:about="http://linked-data-test.stanford.edu/library/it 13004075title5">
-      <bf:label>Donne sole, modelle, prostitute : marginalitÃ  femminili a Roma fra Sette e Ottocento / Ginevra Diletta Tonini Masella.</bf:label>
+      <bf:label>Donne sole, modelle, prostitute : marginalità femminili a Roma fra Sette e Ottocento / Ginevra Diletta Tonini Masella.</bf:label>
       <bf:titleValue>Donne sole, modelle, prostitute :</bf:titleValue>
-      <bf:subtitle>marginalitÃ  femminili a Roma fra Sette e Ottocento </bf:subtitle>
+      <bf:subtitle>marginalità femminili a Roma fra Sette e Ottocento </bf:subtitle>
    </bf:Title>
    <bf:Person rdf:about="http://linked-data-test.stanford.edu/library/it 13004075person6">
       <bf:label>Tonini Masella, Ginevra Diletta.</bf:label>
@@ -384,9 +384,9 @@
       <bf:hasAuthority rdf:resource="http://id.loc.gov/authorities/subjects/sh85147274"/>
    </bf:Topic>
    <bf:Title rdf:about="http://linked-data-test.stanford.edu/library/it 13004075title20">
-      <bf:label>Donne sole, modelle, prostitute : marginalitÃ  femminili a Roma fra Sette e Ottocento / Ginevra Diletta Tonini Masella.</bf:label>
+      <bf:label>Donne sole, modelle, prostitute : marginalità femminili a Roma fra Sette e Ottocento / Ginevra Diletta Tonini Masella.</bf:label>
       <bf:titleValue>Donne sole, modelle, prostitute :</bf:titleValue>
-      <bf:subtitle>marginalitÃ  femminili a Roma fra Sette e Ottocento </bf:subtitle>
+      <bf:subtitle>marginalità femminili a Roma fra Sette e Ottocento </bf:subtitle>
    </bf:Title>
    <bf:Title rdf:about="http://linked-data-test.stanford.edu/library/it 1264319Xtitle6">
       <bf:label>Le donne della Bibbia, la Bibbia delle donne : teatro, letteratura e vita : atti del XV Convegno internazionale di studio, Verona, 16-17 ottobre 2009 / a cura di Rosanna Gorris Camos.</bf:label>
@@ -435,13 +435,13 @@
       <bf:subtitle>teatro, letteratura e vita atti del XV Convegno internazionale di studio, Verona, 16-17 ottobre 2009 </bf:subtitle>
    </bf:Title>
    <bf:Title rdf:about="http://linked-data-test.stanford.edu/library/it 10952721title7">
-      <bf:label>ConsideraciÃ³n sintÃ¡ctico-semÃ¡ntica de esse : un estudio a travÃ©s de la prosa de Livio / ConcepciÃ³n Cabrillana Leal.</bf:label>
-      <bf:titleValue>ConsideraciÃ³n sintÃ¡ctico-semÃ¡ntica de esse :</bf:titleValue>
-      <bf:subtitle>un estudio a travÃ©s de la prosa de Livio </bf:subtitle>
+      <bf:label>Consideración sintáctico-semántica de esse : un estudio a través de la prosa de Livio / Concepción Cabrillana Leal.</bf:label>
+      <bf:titleValue>Consideración sintáctico-semántica de esse :</bf:titleValue>
+      <bf:subtitle>un estudio a través de la prosa de Livio </bf:subtitle>
    </bf:Title>
    <bf:Person rdf:about="http://linked-data-test.stanford.edu/library/it 10952721person8">
-      <bf:label>Cabrillana Leal, ConcepciÃ³n.</bf:label>
-      <bf:authorizedAccessPoint>Cabrillana Leal, ConcepciÃ³n.</bf:authorizedAccessPoint>
+      <bf:label>Cabrillana Leal, Concepción.</bf:label>
+      <bf:authorizedAccessPoint>Cabrillana Leal, Concepción.</bf:authorizedAccessPoint>
       <bf:hasAuthority rdf:resource="http://id.loc.gov/authorities/names/n2008029595"/>
       <bf:hasAuthority rdf:resource="http://viaf.org/viaf/120212899"/>
       <bf:hasAuthority rdf:resource="http://isni.org/isni/000000038525452X"/>
@@ -457,12 +457,12 @@
       <bf:hasAuthority rdf:resource="http://id.loc.gov/authorities/subjects/sh2009128900"/>
    </bf:Topic>
    <bf:Title rdf:about="http://linked-data-test.stanford.edu/library/it 10952721title19">
-      <bf:label>ConsideraciÃ³n sintÃ¡ctico-semÃ¡ntica de esse : un estudio a travÃ©s de la prosa de Livio / ConcepciÃ³n Cabrillana Leal.</bf:label>
-      <bf:titleValue>ConsideraciÃ³n sintÃ¡ctico-semÃ¡ntica de esse :</bf:titleValue>
-      <bf:subtitle>un estudio a travÃ©s de la prosa de Livio </bf:subtitle>
+      <bf:label>Consideración sintáctico-semántica de esse : un estudio a través de la prosa de Livio / Concepción Cabrillana Leal.</bf:label>
+      <bf:titleValue>Consideración sintáctico-semántica de esse :</bf:titleValue>
+      <bf:subtitle>un estudio a través de la prosa de Livio </bf:subtitle>
    </bf:Title>
    <bf:Title rdf:about="http://linked-data-test.stanford.edu/library/it 13004852title8">
-      <bf:label>Ostraca greci e bilingui del Petrie museum of Egyptian archaeology (O.Petr.Mus.) / a cura di Maria Serena Funghi, Gabriella Messeri, Cornelia Eva RÃ¶mer.</bf:label>
+      <bf:label>Ostraca greci e bilingui del Petrie museum of Egyptian archaeology (O.Petr.Mus.) / a cura di Maria Serena Funghi, Gabriella Messeri, Cornelia Eva Römer.</bf:label>
       <bf:titleValue>Ostraca greci e bilingui del Petrie museum of Egyptian archaeology (O.Petr.Mus.)</bf:titleValue>
    </bf:Title>
    <bf:Person rdf:about="http://linked-data-test.stanford.edu/library/it 13004852person9">
@@ -480,11 +480,11 @@
       <bf:hasAuthority rdf:resource="http://isni.org/isni/0000000061255761"/>
    </bf:Person>
    <bf:Person rdf:about="http://linked-data-test.stanford.edu/library/it 13004852person11">
-      <bf:label>RÃ¶mer, Cornelia Eva.</bf:label>
-      <bf:authorizedAccessPoint>RÃ¶mer, Cornelia Eva.</bf:authorizedAccessPoint>
+      <bf:label>Römer, Cornelia Eva.</bf:label>
+      <bf:authorizedAccessPoint>Römer, Cornelia Eva.</bf:authorizedAccessPoint>
       <bf:hasAuthority>
          <madsrdf:Authority>
-            <madsrdf:authoritativeLabel>RÃ¶mer, Cornelia Eva.</madsrdf:authoritativeLabel>
+            <madsrdf:authoritativeLabel>Römer, Cornelia Eva.</madsrdf:authoritativeLabel>
          </madsrdf:Authority>
       </bf:hasAuthority>
    </bf:Person>
@@ -505,7 +505,7 @@
       <bf:hasAuthority rdf:resource="http://viaf.org/viaf/147720939"/>
    </bf:Organization>
    <bf:Title rdf:about="http://linked-data-test.stanford.edu/library/it 13004852title24">
-      <bf:label>Ostraca greci e bilingui del Petrie museum of Egyptian archaeology (O.Petr.Mus.) / a cura di Maria Serena Funghi, Gabriella Messeri, Cornelia Eva RÃ¶mer.</bf:label>
+      <bf:label>Ostraca greci e bilingui del Petrie museum of Egyptian archaeology (O.Petr.Mus.) / a cura di Maria Serena Funghi, Gabriella Messeri, Cornelia Eva Römer.</bf:label>
       <bf:titleValue>Ostraca greci e bilingui del Petrie museum of Egyptian archaeology (O.Petr.Mus.)</bf:titleValue>
    </bf:Title>
 </rdf:RDF>
